@@ -5,4 +5,5 @@ boostrap my working environment configuration
 - [x] VIM
 - [ ] CUDA
 - [ ] pytorch
+- [ ] Julia
 
